@@ -73,13 +73,17 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/aliaksandrzasinets"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aliaksandrzasinets" /></a></p><br><br>
+<p><a href="https://ko-fi.com/aliaksandrzasinets"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aliaksandrzasinets" />
+    <a href="https://paypal.me/@AZasinets" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="center"
+                />
+            </a>
+            </a></a></p><br><br>
 
  
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-
-
-
 
