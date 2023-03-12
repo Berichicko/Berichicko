@@ -82,6 +82,12 @@
             </a>
             </a></a></p><br><br>
 
+<h3 align="left">Dog Shelter Ocheretino:</h3>If you would like to help but cannot adopt a dog right now, you can help us with food and veterinary support <p align="left">
+<a href="https://fb.com/dogsocheretino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dogsocheretino" height="30" width="40" /></a>
+<a href="https://instagram.com/dog_shelter_ocheretino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dog_shelter_ocheretino" height="30" width="40" /></a>
+</p>
+
+
  
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
