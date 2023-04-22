@@ -4,8 +4,9 @@
 <h3 align="center">QA AUTOMATION ENGINEER (JAVA)</h3>
 
 
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/104761482/220050797-25a7e96b-6aea-4484-b439-d0790bc30cd1.gif" alt="animated" />
+  <img src="https://user-images.githubusercontent.com/104761482/233775629-b10f62a4-4097-4f27-9666-34884023a30d.png"/>
 </p>
 
 - 💪 I have strong experience in automated testing with Java, using various frameworks on commercial projects (including UI and API testing). During my work, I have implemented various patterns and used the following tools: 
