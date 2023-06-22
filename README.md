@@ -84,10 +84,10 @@
 </a>
             </a></a></p><br><br>
 
-<h3 align="left">Dog Shelter Ocheretino:</h3>If you would like to help but cannot adopt a dog right now, you can help us with food and veterinary support <p align="left">
-<a href="https://fb.com/dogsocheretino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dogsocheretino" height="30" width="40" /></a>
-<a href="https://instagram.com/dog_shelter_ocheretino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dog_shelter_ocheretino" height="30" width="40" /></a>
-</p>
+<h3 align="left">I will create and customize professional github profile</h3>I will create a professional GitHub profile or update the existing one, and fix all issues. Customize your readme.md file per your preference + push the code to the repository (Senior QA Automation level)<p align="left">
+
+Fiver project page: https://www.fiverr.com/s/08w1ry<img align="center" /></a>
+
 
 
  
