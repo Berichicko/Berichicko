@@ -1,7 +1,10 @@
-![download (6)](https://user-images.githubusercontent.com/104761482/219974837-5fbc5761-d46e-45fd-8794-976f115d0f3f.gif)
+<p align="center">
+  <img src="https://github.com/Berichicko/Berichicko/assets/104761482/df1bda72-3c73-4918-a943-8f4ed16f28b8"/>
+</p>
 
-
-<h3 align="center">QA AUTOMATION ENGINEER (JAVA)</h3>
+<p align="center">
+  <img src="https://github.com/Berichicko/Berichicko/assets/104761482/41f2995f-93db-45d6-ab18-a8a0c962bb1d"/>
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/104761482/235295339-c98243c5-d711-4686-ad1e-c85af334b4b7.png"/>
@@ -34,15 +37,14 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Berichicko)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Connect with me:</h3>
+![image](https://github.com/Berichicko/Berichicko/assets/104761482/d10448cb-d742-4d8b-b5a7-dc2774b9663a)
+
 <p align="left">
 <a href="https://linkedin.com/in/aliaksandr-zasinets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliaksandr-zasinets" height="30" width="40" /></a>
  <a href="mailto: aliaksandr.zasinets@gmail.com "><img src="https://img.shields.io/badge/- aliaksandr.zasinets@gmail.com -D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
-
-<h3 align="left">Languages and Tools:</h3>
-
+![image](https://github.com/Berichicko/Berichicko/assets/104761482/c1cfff39-25ec-43b4-a813-333c7bf79add)
 
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
@@ -75,7 +77,8 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
-<h3 align="left">Support:</h3>
+![image](https://github.com/Berichicko/Berichicko/assets/104761482/b7559a86-0ff7-467d-9001-14355f5caba0)
+
 <p><a href="https://ko-fi.com/aliaksandrzasinets"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aliaksandrzasinets" />
     <a href="https://paypal.me/AZasinets" target="_blank" style="display: inline-block;">
                 <img
