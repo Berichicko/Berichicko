@@ -91,12 +91,6 @@
 </a>
             </a></a></p><br><br>
 
-<h3 align="center">I will create and customize professional github profile</h3>
-
-<p align="center">I will create a professional GitHub profile or update the existing one, and fix all issues. Customize your readme.md file per your preference + push the code to the repository (Senior QA Automation level)<p align="center">
-
-<p align="center">Fiver project page: https://www.fiverr.com/s/08w1ry<p align="center">
-
 <p align="center">
   <img src="https://github.com/Berichicko/Berichicko/assets/104761482/a584a7ba-8e22-42e5-a9f2-165732a42b6c"/>
 </p>
