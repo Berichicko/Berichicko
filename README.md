@@ -20,8 +20,6 @@
 
 - 💪 Developing and Documentation of Test Plans, Test Cases, Test Procedures and Java, WEB and Client/ Server applications.
 
-- 🔭 I’m currently working on [RARETOSHI](https://github.com/Berichicko/taf-raretoshi) TAF-RARETOSHI (TEST AUTOMATION FRAMEWORK)
-
 - 🌱 Certified: **Java Automation Testing - IT Academy**
 
 
